@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  facebook           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  facebook           : "https://www.facebook.com/yujia.zhang.35"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ"
   email            :
   researchgate     :  https://www.researchgate.net/profile/Yujia-Zhang-29  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5831-6882"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
