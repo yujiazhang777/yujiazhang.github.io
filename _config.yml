@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yujia Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  facebook           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ"
   email            :
   researchgate     :  https://www.researchgate.net/profile/Yujia-Zhang-29  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yujiazhang777"
   google_plus      :
   keybase          :
   instagram        :
