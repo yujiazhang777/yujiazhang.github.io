@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Geodetic Science, 2012-09-01 to 2019-01-01
+* Bachelor in Geodesy and Geomatics, 2007-09-01 to 2011-06-30
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher in School of Instrument Science and Engineering, 2023-06 to present
+* Postdoctoral Researcher in Earth and Space Science and Engineering, 2019-01-01 to 2022-12-31
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research: Geodesy and Geomatics; Photogrammetry; Computer Vision; SLAM; Brain-inspired Navigation; 3D Reconstruction
+* Programming: Python; MATLAB; C/C++
+* Tools and platforms: Git; LaTeX; Linux; photogrammetry, GIS, and remote sensing workflows
 
 Publications
 ======
