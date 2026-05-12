@@ -32,6 +32,16 @@ Research Topics
 Publications
 ------
 
+{% assign recent_publications = site.publications | sort: "date" | reverse %}
+{% for post in recent_publications limit: 8 %}
+{% assign publication_url = post.url | prepend: base_path %}
+{% if post.link %}{% assign publication_url = post.link %}{% endif %}
+* **[{{ post.title }}]({{ publication_url }})**  
+  {{ post.authors }}. _{{ post.venue }}_, {{ post.date | date: "%Y" }}.
+{% endfor %}
+
+For the full and most up-to-date list, please see [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ).
+
 
 Blogs
 ------

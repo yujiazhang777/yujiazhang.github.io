@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yujia Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yujia Zhang"
+description              : &description "Postdoctoral researcher working on computer vision, photogrammetry, SLAM, and 3D reconstruction."
 url                      : https://yujiazhang777.github.io/yujiazhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Yujia Zhang"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral researcher at Southeast University"
+  location         : "Nanjing, China"
   employer         :
-  facebook           : "https://www.facebook.com/yujia.zhang.35"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ"
   email            : "cynthia.zhang777@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Yujia-Zhang-29"  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,9 +93,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "yujia.zhang.35"
   foursquare       :
-  github           : "https://github.com/yujiazhang777"
+  github           : "yujiazhang777"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/CynthiaZhang2"
+  twitter          : "CynthiaZhang2"
   vine             :
   weibo            :
   xing             :
