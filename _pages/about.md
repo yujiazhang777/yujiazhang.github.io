@@ -17,15 +17,27 @@ Research Interests
 
 Education
 ======
-**PhD**
+
+* **PhD in Geodetic Science**, 2012-09-01 to 2019-01-01
+* **Bachelor in Geodesy and Geomatics**, 2007-09-01 to 2011-06-30
 
 
 Experience
 ------
 
+* **Postdoctoral Researcher in School of Instrument Science and Engineering**, 2023-06 to present
+* **Postdoctoral Researcher in Earth and Space Science and Engineering**, 2019-01-01 to 2022-12-31
+
 
 Research Topics
 ------
+
+* Geodesy and Geomatics
+* Computer Vision
+* SLAM
+* Brain-inspired Navigation
+* Photogrammetry
+* 3D Reconstruction
 
 
 
@@ -48,3 +60,5 @@ Blogs
 
 Contact
 ------
+
+Email: [yujia_zhang@seu.edu.cn](mailto:yujia_zhang@seu.edu.cn)
